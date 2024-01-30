@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/TrodelHD/Soundboard/total) ![GitHub top language](https://img.shields.io/github/languages/top/TrodelHD/Soundboard) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/TrodelHD/Soundboard) ![GitHub](https://img.shields.io/github/license/TrodelHD/Soundboard)
+
 # Soundboard
 A soundboard written in Java using JavaFX
 
