@@ -2,7 +2,7 @@ package de.trodel.soundboard.hotkey;
 
 import java.util.Objects;
 
-import org.jnativehook.keyboard.NativeKeyListener;
+import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
 
 public abstract class BlockingKeyListener implements NativeKeyListener {
     private final HotKeyDetector detector;

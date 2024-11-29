@@ -15,7 +15,7 @@ module soundboard {
     exports de.trodel.soundboard.server.rest.requests to jersey.server;
 
     //Keyhook
-    requires jnativehook;
+    requires com.github.kwhat.jnativehook;
     requires java.logging;
 
     //Libs

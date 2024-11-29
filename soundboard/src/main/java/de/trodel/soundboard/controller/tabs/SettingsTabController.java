@@ -3,7 +3,7 @@ package de.trodel.soundboard.controller.tabs;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-import org.jnativehook.keyboard.NativeKeyEvent;
+import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 
 import de.trodel.soundboard.gui.NameWrapper;
 import de.trodel.soundboard.gui.tabs.SettingsTab;

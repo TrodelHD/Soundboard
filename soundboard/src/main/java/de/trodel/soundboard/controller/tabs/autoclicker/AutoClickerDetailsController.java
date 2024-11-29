@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import org.jnativehook.keyboard.NativeKeyEvent;
+import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 
 import de.trodel.soundboard.controller.tabs.autoclicker.actions.ActionPaneController;
 import de.trodel.soundboard.execution.SoundboardExecutionProvider;

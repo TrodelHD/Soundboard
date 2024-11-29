@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-import org.jnativehook.NativeHookException;
+import com.github.kwhat.jnativehook.NativeHookException;
 
 import de.trodel.soundboard.model.AutoclickModel;
 import de.trodel.soundboard.model.MainModel;

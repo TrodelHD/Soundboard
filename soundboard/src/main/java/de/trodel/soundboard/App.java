@@ -8,8 +8,9 @@ import java.io.IOException;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 
-import org.jnativehook.NativeHookException;
 import org.json.JSONObject;
+
+import com.github.kwhat.jnativehook.NativeHookException;
 
 import de.trodel.soundboard.controller.MainTabPaneController;
 import de.trodel.soundboard.execution.SoundboardExecutionProvider;

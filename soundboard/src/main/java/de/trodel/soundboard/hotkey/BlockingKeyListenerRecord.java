@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import org.jnativehook.keyboard.NativeKeyEvent;
-import org.jnativehook.keyboard.SwingKeyAdapter;
+import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
+import com.github.kwhat.jnativehook.keyboard.SwingKeyAdapter;
 
 import de.trodel.soundboard.model.ActionModel;
 import de.trodel.soundboard.model.ActionModel.ActionType;
